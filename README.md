@@ -1,6 +1,6 @@
 # MTGA_auto_fill_promo_code
 
-pip3 install aiohttp
+requirement `pip3 install aiohttp` ---> https://github.com/aio-libs/aiohttp
 
 fill your `account`(username) and `password` in `mtga_fill_code.py` and run it.
 
